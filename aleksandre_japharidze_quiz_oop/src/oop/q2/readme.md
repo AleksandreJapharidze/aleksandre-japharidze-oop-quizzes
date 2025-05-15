@@ -1,6 +1,6 @@
 # ListTransformer
 
-## 📜 Description
+## Description
 
 `ListTransformer` is a simple Java program that demonstrates how to generate a new list of strings (`list3`) by transforming a list of integers (`list1`) through calculated index lookups in a third list (`list2`).
 
@@ -12,7 +12,7 @@ Each value in `list1` is processed with this formula to find an index in `list2`
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 Given the lists:
 
@@ -27,7 +27,7 @@ If the calculated index is out of bounds, the program inserts `"Out of bounds!"`
 
 ---
 
-## 💻 Example
+## Example
 
 ```java
 list1: [9, 3, 8, 9, 3, 6, 3, 7, 2, 9, 7, 2, 6]
